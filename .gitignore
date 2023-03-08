@@ -1,3 +1,8 @@
 .vs/
-/Build/Windows-x86/*
+/Build/Windows-x86
 /Build/Windows-x64
+
+/Build/Linux-x86
+/Build/Linux-x64
+
+/Build/Output/*

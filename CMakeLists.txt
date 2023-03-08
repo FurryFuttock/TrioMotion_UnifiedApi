@@ -1,7 +1,10 @@
 cmake_minimum_required(VERSION 3.18)
-project(TrioMotion_UnifiedApi LANGUAGES C CXX CSharp)
-
-add_compile_options("$<$<C_COMPILER_ID:MSVC>:/utf-8>")
-add_compile_options("$<$<CXX_COMPILER_ID:MSVC>:/utf-8>")
+if (CMAKE_GENERATOR MATCHES "Visual Studio")
+    # Do Visual Studio specific stuff
+    project(TrioMotion_UnifiedApi LANGUAGES C CXX CSharp)
+else()
+    # Other stuff
+    project(TrioMotion_UnifiedApi LANGUAGES C CXX)
+endif()
 
 add_subdirectory(./Platform/Port/TCP)
