@@ -44,6 +44,8 @@ namespace TrioMotion
     class UnifiedApi_TCP : public UnifiedApi
     {
     public:
+        UnifiedApi_TCP();
+
         virtual bool RemoteOpen(const Connection &Connection, ConnectionCallback ConnectionCallback, void *ConnectionCallbackContext, Context **Context);
         virtual bool MpeOpen(const Connection &Connection, ConnectionCallback ConnectionCallback, void *ConnectionCallbackContext, Context **Context);
         virtual bool TextFileLoaderOpen(const Connection &Connection, ConnectionCallback ConnectionCallback, void *ConnectionCallbackContext, Context **Context);
