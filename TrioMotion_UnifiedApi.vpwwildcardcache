@@ -1,0 +1,219 @@
+<WildcardCache version="1">
+	<Project File="TrioMotion_UnifiedApi.vpj">
+		<Wildcards>
+			<W F="*.c" Wildcards="*.c;*.cc;*.cpp;*.cppm;*.cp;*.cxx;*.c++;*.h;*.hh;*.hpp;*.hxx;*.h++;*.inl;*.ixx;*.xpm" Excludes="*.tiff;*.tbz;*.pdb;*.avi;*.msi;*.cpgz;*.rpm;*.class;*.a;*.gif;*.taz;*.bin;*.jpg;*.svgz;*.exe;*.mp3;*.jar;*.ico;*.tif;*.txz;*.sl;*.png;*.jpeg;*.tar;*.Z;*.sta;*.xslx;*.gz;*.bz2;*.xz;*.mpeg;*.chm;*.dll;*.7z;*.lib;*.so;*.ex;*.tgz;*.war;*.vtg;*.docx;*.rar;*.o;*.wmv;*.cpio;*.zip;*.bmp;*.suo;*.xlsx;*.7zip;*.winmd;*.pdf;*.obj;*.z;*.tbz2;.svn/;.CVS/;SSCS/;.DS_Store;*.vpw;*.vpj;*.vpwhist;*.vpwhistu" CompileExt="" ResourceExt="" Recurse="1" D="1"/>
+		</Wildcards>
+		<Files>
+			Platform/Port/TCP/pch.cpp
+			Build/Windows-x64/CMakeFiles/3.25.2/CompilerIdC/CMakeCCompilerId.c
+			Platform/Port/TCP/TrioMotion_UnifiedApi-TCP.cpp
+			Build/Windows-x86/CMakeFiles/3.25.2/CompilerIdCXX/CMakeCXXCompilerId.cpp
+			Platform/Port/TCP/TrioMotion_UnifiedApi-TCP.h
+			Build/Windows-x64/CMakeFiles/3.25.2/CompilerIdCXX/CMakeCXXCompilerId.cpp
+			Platform/Port/TCP/pch.h
+			Platform/Port/TCP/framework.h
+			Platform/TrioMotion_UnifiedApi.h
+			Platform/Port/TCP/dllmain.cpp
+			Build/Windows-x86/CMakeFiles/3.25.2/CompilerIdC/CMakeCCompilerId.c
+		</Files>
+		<Folders>
+			133226888670074384 .git/logs/refs/remotes/
+			133227668594634815 .git/objects/62/
+			133226888670064379 .git/refs/
+			133228409146817936 Build/Windows-x86/Platform/Port/TCP/TrioMotion_UnifiedApi-TCP-Win32.dir/
+			133227697754549166 .git/objects/e8/
+			133228409019562172 Build/Windows-x86/CMakeFiles/3.25.2/CompilerIdCXX/
+			133228409026885796 Build/Windows-x86/CMakeFiles/3.25.2/CompilerIdCSharp/obj/Win32/
+			133227672744232721 .git/objects/f3/
+			133226888670106403 .git/logs/
+			133227625743214122 .git/objects/d7/
+			133228409138768223 Build/Windows-x64/Platform/
+			133227697757823981 .git/objects/ce/
+			133226888649757994 .git/objects/info/
+			133228408876330408 .git/objects/b7/
+			133227668594722250 .git/objects/c4/
+			133228457488417734 Build/Windows-x86/Win32/Release/ZERO_CHECK/ZERO_CHECK.tlog/
+			133228409072981669 Build/Windows-x64/CMakeFiles/3.25.2/CompilerIdC/tmp/
+			133226887074566064 Binding/LabView/
+			133228457511493279 Build/Windows-x64/x64/Release/ALL_BUILD/ALL_BUILD.tlog/
+			133228457484085699 Build/Windows-x86/CMakeFiles/
+			133228417608604031 .git/objects/0a/
+			133227668594594809 .git/objects/d9/
+			133227625945798425 .git/objects/ef/
+			133227668591176129 .git/objects/44/
+			133226888670116472 .git/logs/refs/
+			133228409138953029 Build/Windows-x64/CMakeFiles/289f0f147e297e0b2d527d734c842da4/
+			133228409138768223 Build/Windows-x64/Platform/Port/
+			133226876048976356 Platform/Port/
+			133228414941942272 .git/objects/35/
+			133227625945778295 .git/objects/6b/
+			133226889263713588 .git/objects/f8/
+			133227625942215375 .git/objects/b8/
+			133226888649688008 .git/refs/tags/
+			133228415863215052 .git/objects/14/
+			133226889263354815 .git/objects/41/
+			133226889263400040 .git/objects/7a/
+			133228409146540626 Build/Windows-x86/Win32/Release/ZERO_CHECK/
+			133228417665809326 .git/objects/20/
+			133227622196579782 .git/objects/72/
+			133228409096857725 Build/Windows-x64/CMakeFiles/3.25.2/CompilerIdCSharp/tmp/
+			133228409021551280 Build/Windows-x86/CMakeFiles/3.25.2/CompilerIdCXX/Debug/
+			133226889263834735 .git/objects/c0/
+			133228409167448126 Build/Windows-x64/Platform/Port/TCP/
+			133228409009352271 Build/Windows-x86/CMakeFiles/3.25.2/CompilerIdC/Debug/CompilerIdC.tlog/
+			133227767256321241 .git/objects/pack/
+			133228409176085079 Build/Output/
+			133228409072761588 Build/Windows-x64/CMakeFiles/3.25.2/x64/Debug/VCTargetsPath.tlog/
+			133228409146827792 Build/Windows-x86/Platform/Port/TCP/
+			133228408741295292 .git/objects/73/
+			133228409164250151 Build/Windows-x64/x64/
+			133228409065979439 Build/Windows-x86/Platform/
+			133226887576819569 Binding/Python/
+			133228409082571561 Build/Windows-x64/CMakeFiles/3.25.2/CompilerIdC/Debug/
+			133228457494054774 Build/Windows-x86/Platform/Port/TCP/TrioMotion_UnifiedApi-TCP-Win32.dir/Release/
+			133227668591144709 .git/objects/13/
+			133227672636735243 .git/objects/68/
+			133228409096123826 Build/Windows-x64/CMakeFiles/3.25.2/CompilerIdCXX/Debug/CompilerIdCXX.tlog/
+			133228409143644835 Build/Windows-x86/
+			133227626817387498 .git/objects/85/
+			133226779559097592 Binding/
+			133226889398507332 .git/objects/59/
+			133228409164250151 Build/Windows-x64/
+			133226888649678147 .git/info/
+			133227672744322745 .git/objects/ac/
+			133228409065969440 Build/Windows-x86/CMakeFiles/3.25.2/
+			133228415816891346 .git/objects/f6/
+			133228409167438290 Build/Windows-x64/Platform/Port/TCP/TrioMotion_UnifiedApi-TCP-x64.dir/
+			133228409099563479 Build/Windows-x64/CMakeFiles/3.25.2/CompilerIdCSharp/obj/x64/
+			133226889443920547 .git/logs/refs/remotes/origin/
+			133227625945863199 .git/objects/54/
+			133227668591104713 .git/objects/2f/
+			133228415816911340 .git/objects/d0/
+			133228409065939324 Build/Windows-x86/CMakeFiles/CMakeScratch/
+			133228409143644835 Build/Windows-x86/Release/
+			133228409094315252 Build/Windows-x64/CMakeFiles/3.25.2/CompilerIdCXX/Debug/
+			133227625945963710 .git/objects/de/
+			133228415917138354 .git/refs/remotes/origin/
+			133226889398547324 .git/objects/11/
+			133227668594554810 .git/objects/16/
+			133227697754569385 .git/objects/0e/
+			133228409101295051 Build/Windows-x64/CMakeFiles/3.25.2/CompilerIdCSharp/
+			133228457498017889 Build/Windows-x86/Win32/Release/ALL_BUILD/ALL_BUILD.tlog/
+			133228457499502387 Build/Windows-x64/CMakeFiles/
+			133228409099563479 Build/Windows-x64/CMakeFiles/3.25.2/CompilerIdCSharp/obj/
+			133226889398527316 .git/objects/e1/
+			133227767338859908 Platform/Port/TCP/
+			133227668594534769 .git/objects/18/
+			133227626817371515 .git/objects/87/
+			133227697754531367 .git/objects/a5/
+			133226889263334818 .git/objects/c1/
+			133226884608977232 Platform/Port/UDP/
+			133228408995852538 Build/Windows-x86/CMakeFiles/3.25.2/Debug/VCTargetsPath.tlog/
+			133226889398438534 .git/objects/33/
+			133227696506666879 .git/objects/ba/
+			133228408876380504 .git/objects/c7/
+			133228431254981745 Debug/
+			133226886412618590 Binding/C/
+			133228409080658334 Build/Windows-x64/CMakeFiles/3.25.2/CompilerIdC/
+			133228409084367582 Build/Windows-x64/CMakeFiles/3.25.2/CompilerIdC/Debug/CompilerIdC.tlog/
+			133228409005369394 Build/Windows-x86/CMakeFiles/3.25.2/CompilerIdC/
+			133226886691607452 Binding/C++/
+			133228409023898237 Build/Windows-x86/CMakeFiles/3.25.2/CompilerIdCSharp/tmp/
+			133227625942236023 .git/objects/0c/
+			133227672678681498 .git/objects/8b/
+			133227622186547708 .git/objects/d1/
+			133227622181275297 .git/objects/2a/
+			133226889263663594 .git/objects/82/
+			133227622422711711 .git/objects/63/
+			133226889398517318 .git/objects/95/
+			133228409101335034 Build/Windows-x64/CMakeFiles/3.25.2/CompilerIdCSharp/obj/x64/Debug/
+			133228417892702534 .git/objects/7f/
+			133228414970951685 .git/objects/be/
+			133228416547280261 .git/objects/ea/
+			133228409138758211 Build/Windows-x64/CMakeFiles/3.25.2/
+			133227672744178030 .git/objects/1f/
+			133226887385189777 Binding/NET/
+			133228409177853066 Build/Windows-x64/x64/Release/
+			133226889263587324 .git/objects/f2/
+			133226888670116472 .git/logs/refs/heads/
+			133227625945883155 .git/objects/38/
+			133227622423248078 .git/objects/89/
+			133228409159574133 Build/Windows-x86/Win32/Release/ALL_BUILD/
+			133226884160091337 Platform/Port/RS232/
+			133227622423549029 .git/objects/2c/
+			133226889398478263 .git/objects/45/
+			133227626817427046 .git/objects/64/
+			133227622169696773 .git/objects/67/
+			133228409179981258 Build/Windows-x64/x64/Release/ALL_BUILD/
+			133227697757803976 .git/objects/9c/
+			133228418113582658 .git/objects/c6/
+			133226889263643506 .git/objects/88/
+			133226889398457982 .git/objects/da/
+			133228409007602423 Build/Windows-x86/CMakeFiles/3.25.2/CompilerIdC/Debug/
+			133228512568553287 .git/
+			133228457499517497 Build/Windows-x64/Platform/Port/TCP/CMakeFiles/
+			133228409176085079 Build/Windows-x64/Platform/Port/TCP/Release/
+			133226889398562416 .git/objects/5e/
+			133228408989995270 Build/Windows-x86/CMakeFiles/pkgRedirects/
+			133228457497847637 Build/Windows-x86/Platform/Port/TCP/TrioMotion_UnifiedApi-TCP-Win32.dir/Release/TrioMoti.356CF75F.tlog/
+			133228416547265163 .git/objects/08/
+			133227626817402720 .git/objects/22/
+			133226885197016817 Platform/SharedMemory/PC-MCAT/
+			133228408723953884 .git/objects/1a/
+			133227672741022269 .git/objects/f9/
+			133228409070931452 Build/Windows-x64/CMakeFiles/3.25.2/x64/Debug/
+			133228409066177400 Build/Windows-x86/CMakeFiles/aa75d6164924f0388b89ab1c90a0d3e0/
+			133226883585272329 Platform/
+			133228418460153616 .git/objects/61/
+			133228418460189552 .git/objects/
+			133227625945813049 .git/objects/26/
+			133228457507432936 Build/Windows-x64/Platform/Port/TCP/TrioMotion_UnifiedApi-TCP-x64.dir/Release/
+			133228457484105705 Build/Windows-x86/Platform/Port/TCP/CMakeFiles/
+			133228415863194865 .git/objects/2e/
+			133227622422741644 .git/objects/3e/
+			133226889398572978 .git/objects/b5/
+			133228409092570338 Build/Windows-x64/CMakeFiles/3.25.2/CompilerIdCXX/
+			133226889263784753 .git/objects/d5/
+			133226889398592931 .git/objects/fc/
+			133226888670064379 .git/refs/remotes/
+			133226889398497369 .git/objects/01/
+			133228408993880928 Build/Windows-x86/CMakeFiles/3.25.2/Debug/
+			133228431254971642
+			133227697757783933 .git/objects/39/
+			133226889263693591 .git/objects/bd/
+			133228409067242355 Build/Windows-x64/CMakeFiles/pkgRedirects/
+			133228457511318040 Build/Windows-x64/Platform/Port/TCP/TrioMotion_UnifiedApi-TCP-x64.dir/Release/TrioMoti.283538B2.tlog/
+			133227767338859908 CMake/
+			133228418460189552 .git/objects/f4/
+			133228409067232349 Build/
+			133226888649606453 .git/hooks/
+			133227672744188128 .git/objects/cd/
+			133227622423681500 .git/objects/3a/
+			133227622423627294 .git/objects/b3/
+			133228418460209553 .git/refs/heads/
+			133228409167151556 Build/Windows-x64/x64/Release/ZERO_CHECK/
+			133228409143616059 Build/Windows-x86/Win32/
+			133226780420860638 Platform/SharedMemory/
+			133228409026885796 Build/Windows-x86/CMakeFiles/3.25.2/CompilerIdCSharp/obj/
+			133226889263567587 .git/objects/52/
+			133228409138727743 Build/Windows-x64/CMakeFiles/CMakeScratch/
+			133228409028709212 Build/Windows-x86/CMakeFiles/3.25.2/CompilerIdCSharp/
+			133228409023328135 Build/Windows-x86/CMakeFiles/3.25.2/CompilerIdCXX/Debug/CompilerIdCXX.tlog/
+			133227625742602535 .git/objects/eb/
+			133228457503636408 Build/Windows-x64/x64/Release/ZERO_CHECK/ZERO_CHECK.tlog/
+			133228409028739881 Build/Windows-x86/CMakeFiles/3.25.2/CompilerIdCSharp/obj/Win32/Debug/
+			133228409155369835 Build/Windows-x86/Platform/Port/TCP/Release/
+			133226889263683586 .git/objects/e0/
+			133228409157295728 Build/Windows-x86/Win32/Release/
+			133228418213422012 .git/objects/ca/
+			133228409011959987 Build/Windows-x86/CMakeFiles/3.25.2/CompilerIdCXX/tmp/
+			133228409070654608 Build/Windows-x64/CMakeFiles/3.25.2/x64/
+			133228409065989661 Build/Windows-x86/Platform/Port/
+			133227668594614812 .git/objects/a8/
+			133228409085108753 Build/Windows-x64/CMakeFiles/3.25.2/CompilerIdCXX/tmp/
+			133226889263364816 .git/objects/e3/
+			133228408996086007 Build/Windows-x86/CMakeFiles/3.25.2/CompilerIdC/tmp/
+			133226884935007724 Platform/SharedMemory/Flex7/
+		</Folders>
+	</Project>
+</WildcardCache>

@@ -60,6 +60,8 @@
   -- public functions
   ---------------------------------------------------------------------*/
 
-
-
+TrioMotion::UnifiedApi *factory()
+{
+    return new TrioMotion::UnifiedApi_TCP();
+}
 
