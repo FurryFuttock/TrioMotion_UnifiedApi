@@ -52,7 +52,7 @@ namespace TrioMotion
         /**
          * Encapsulation for supported protocol types.
          */
-        typedef class Protocol
+        typedef class Protocol_c
         {
         protected:
             std::vector<std::string> Name = 
@@ -81,9 +81,9 @@ namespace TrioMotion
             Type Value;
 
             operator const char *() const { return (Value >= 0) && (Value < Name.size()) ? Name[Value].c_str() : ""; }
-        } Protocol;
+        } Protocol_t;
 
-        Protocol Protocol;
+        Protocol_t Protocol;
 
     public:
         /* Types */
